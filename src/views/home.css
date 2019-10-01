@@ -1,0 +1,32 @@
+.btn1,
+.btn2 {
+  width: 100%;
+  color: #fff;
+  border: none;
+  text-transform: capitalize;
+}
+
+.btn1:focus,
+.btn2:focus {
+  outline: none;
+}
+
+.btn1 {
+  background-color: #e51d2e;
+}
+
+.btn1:hover {
+  background-color: #e9404f;
+}
+
+.btn2 {
+  background-color: #000;
+}
+.btn2:hover {
+  background-color: #141414;
+}
+
+.poster1 {
+  height: 300px;
+  width: 100%;
+}
